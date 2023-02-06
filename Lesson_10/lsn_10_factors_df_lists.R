@@ -109,6 +109,9 @@ abilities <- lapply(df$abilities,
 # What is the length of the 38th object in abilities?  How about the 40th?
 
 
+# What if we asked you how many unique abilities are in the Pokemon data?
+
+
 #What is a factor?
 
 # ANS: 
