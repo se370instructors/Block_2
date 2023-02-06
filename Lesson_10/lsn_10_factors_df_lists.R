@@ -47,7 +47,7 @@
 # This dataset contains information on all 802 Pokemon from all 
 # Seven Generations of Pokemon
 download.file('https://dscoe-data-2.s3.amazonaws.com/pokemon.csv', 'pokemon.csv')
-df <- read_csv('pokemon.csv')
+df <- read.csv('pokemon.csv')
 
 # Look at the first 6 rows of the dataframe
 
